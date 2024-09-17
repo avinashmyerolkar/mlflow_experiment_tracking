@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avinash_m_yerolkar/ml-flow-experiment-tracking/mlruns/114339855794541018/47200c3624254f589f58a4b198e442a0/artifacts
+end_time: 1726560966202
+entry_point_name: ''
+experiment_id: '114339855794541018'
+lifecycle_stage: active
+run_id: 47200c3624254f589f58a4b198e442a0
+run_name: upbeat-donkey-199
+run_uuid: 47200c3624254f589f58a4b198e442a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726560965981
+status: 4
+tags: []
+user_id: avinash_m_yerolkar

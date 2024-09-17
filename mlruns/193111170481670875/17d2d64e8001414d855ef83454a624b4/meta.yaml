@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avinash_m_yerolkar/ml-flow-experiment-tracking/mlruns/193111170481670875/17d2d64e8001414d855ef83454a624b4/artifacts
+end_time: 1726561162921
+entry_point_name: ''
+experiment_id: '193111170481670875'
+lifecycle_stage: active
+run_id: 17d2d64e8001414d855ef83454a624b4
+run_name: suave-fowl-631
+run_uuid: 17d2d64e8001414d855ef83454a624b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726561162642
+status: 4
+tags: []
+user_id: avinash_m_yerolkar

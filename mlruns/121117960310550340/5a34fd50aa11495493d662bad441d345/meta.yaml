@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avinash_m_yerolkar/ml-flow-experiment-tracking/mlruns/121117960310550340/5a34fd50aa11495493d662bad441d345/artifacts
+end_time: 1726562167481
+entry_point_name: ''
+experiment_id: '121117960310550340'
+lifecycle_stage: active
+run_id: 5a34fd50aa11495493d662bad441d345
+run_name: persistent-asp-224
+run_uuid: 5a34fd50aa11495493d662bad441d345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726562165334
+status: 3
+tags: []
+user_id: avinash_m_yerolkar

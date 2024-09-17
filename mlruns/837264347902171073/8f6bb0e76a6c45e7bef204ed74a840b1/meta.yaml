@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avinash_m_yerolkar/ml-flow-experiment-tracking/mlruns/837264347902171073/8f6bb0e76a6c45e7bef204ed74a840b1/artifacts
+end_time: 1726561606199
+entry_point_name: ''
+experiment_id: '837264347902171073'
+lifecycle_stage: active
+run_id: 8f6bb0e76a6c45e7bef204ed74a840b1
+run_name: able-stag-418
+run_uuid: 8f6bb0e76a6c45e7bef204ed74a840b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726561605963
+status: 3
+tags: []
+user_id: avinash_m_yerolkar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8d98e4f1a87c42ecbd3e834ca92b194b/artifacts
+end_time: 1726559150738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d98e4f1a87c42ecbd3e834ca92b194b
+run_name: abundant-snipe-405
+run_uuid: 8d98e4f1a87c42ecbd3e834ca92b194b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726559150717
+status: 3
+tags: []
+user_id: avinash_m_yerolkar

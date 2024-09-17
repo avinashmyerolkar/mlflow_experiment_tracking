@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avinash_m_yerolkar/ml-flow-experiment-tracking/mlruns/114339855794541018/ecbd2d0ab22f4b5c8e339cd405d9dbb2/artifacts
+end_time: 1726559968322
+entry_point_name: ''
+experiment_id: '114339855794541018'
+lifecycle_stage: active
+run_id: ecbd2d0ab22f4b5c8e339cd405d9dbb2
+run_name: invincible-swan-741
+run_uuid: ecbd2d0ab22f4b5c8e339cd405d9dbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726559968298
+status: 3
+tags: []
+user_id: avinash_m_yerolkar
